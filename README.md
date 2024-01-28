@@ -2,10 +2,9 @@
 
 This is the third edition of a weekly programming challenge that I'm going to host. The idea is to spur people's creativity. I used to run this kind of contest on [SC2Mapster.com](https://sc2mapster.com/) where every week I would come up with a map concept. It worked really well for mapping competition, I figured that this format would also work for programmers, yet I've not seen this kind of challenge anywhere.
 
-**For this challenge, you need to design and implement a form with a bouncy ball that follows you around and implements the "Squash & Stretch" technique from [Disney's 12 Principles of Animation](https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation). The only restriction on the form is that there must be at least 5 fields to fill out.** Filling out forms is a big part of people's day but is also very boring, hopefully you can use this challenge as a way to make turn it into fun and playful activity!
+**For this challenge, you need to implement a form with a bouncy ball that follows you around as you fill it and implements the "Squash & Stretch" technique from [Disney's 12 Principles of Animation](https://en.wikipedia.org/wiki/Twelve_basic_principles_of_animation). The only restriction on the form is that there must be at least 5 fields to fill out.** Filling out forms is a big part of people's day but is also very boring, hopefully you can use this challenge as a way to make turn it into fun and playful activity!
 
-<img width="504" alt="image" src="https://github.com/vjeux/weekly-challenge-3-disney-animation-x-forms/assets/197597/2759143f-dc87-4928-a443-0477c511788d">
-
+<img width="506" alt="image" src="https://github.com/vjeux/weekly-challenge-3-bouncy-form/assets/197597/e17f7e1e-ffdf-4a75-bf72-6490f6a4b474">
 
 Prizes:
 * Winner: $100
