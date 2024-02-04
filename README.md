@@ -4,19 +4,42 @@
 
 <img width="506" alt="image" src="https://github.com/vjeux/weekly-challenge-3-bouncy-form/assets/197597/e17f7e1e-ffdf-4a75-bf72-6490f6a4b474">
 
-Prizes:
+### Winners:
+* @mhelvens wins $100 for the cursor companion! It feels like something that can be dropped in any form and add some playful interaction. [Try it!](https://playcode.io/1748085), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/4).
+<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/4012816/a8110ccf-9ec9-4d64-9cec-43aee4022081"></video>
+
+* @luisperezphd wins $35 for the bouncy ball experience! By having a single field on the viewport at the time and a sick transition with the ball, it makes it feel like an adventure! [Try it!](https://luisperezphd.github.io/meta-challenge-bouncy-ball/src/bouncy-ball.html), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/6).
+<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/dcc6f02e-616f-40c2-af01-a817db2d5a14"></video>
+
+* @hurrymaplelad wins $15 for gunky form! It reminds me a lot of [World of Goo](https://2dboy.com/). It's a cool way to enhance the selected state of form fields. [Try it!](https://jsfiddle.net/19Lfuo0n/), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/1).
+<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/1083040/9d92f772-46fc-465e-b6b5-215ca88ed404"></video>
+
+
+### Honorable Mentions:
+
+* @bulutcy submitted this really cool soccer inspired form field! [Try it!](https://bulutcy.github.io/bouncy-ball/), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/5).
+<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/836a5b19-c0f3-4aa3-baa5-bd7191a34fb6"></video>
+
+* @zachrip came up with this little friend following you as you type. [Try it!](https://t8zsmm-5173.csb.app/), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/3).
+<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/a92abb8e-bee8-40b3-9db8-3a9f8b08148e"></video>
+
+* Last but not least, @evgenyvinnik made this concept where you have to fill out the form to keep the ball in movement. If it stops, the form locks up! [Try it!](https://codesandbox.io/p/github/evgenyvinnik/bouncyBallForm), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/2).
+
+<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/e1f27cdf-8bb2-47e8-9c0f-11250d7f4e41"></video>
+
+### Prizes:
 * Winner: $100
 * 2nd: $35
 * 3rd: $15
 
-Rules:
+### Rules:
 * The winners will be evaluated based on how creative and interesting the solution is. @vjeux has full discretion on how the winners are selected.
 * Multiple people can work on a single submission. If it wins, the reward will be split based on the team preferences.
 * If a winner doesn't want to take the money, it'll be reinjected in the next week prize pool.
 * The solution must be open sourced.
 * There are no restrictions in terms of tech stack.
 
-How to submit a solution:
+### How to submit a solution:
 * Deadline to submit is Saturday Febrary 3rd evening at Midnight PST (US West Coast).
 * Open an issue on this repo titled "Submission - &lt;Name of your submission&gt;"
 * It must contain a short video showing the submission in action
