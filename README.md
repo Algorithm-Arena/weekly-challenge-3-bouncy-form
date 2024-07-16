@@ -5,27 +5,32 @@
 <img width="506" alt="image" src="https://github.com/vjeux/weekly-challenge-3-bouncy-form/assets/197597/e17f7e1e-ffdf-4a75-bf72-6490f6a4b474">
 
 ### Winners:
-* @mhelvens wins $100 for the cursor companion! It feels like something that can be dropped in any form and add some playful interaction. [Try it!](https://playcode.io/1748085), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/4).
-<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/4012816/a8110ccf-9ec9-4d64-9cec-43aee4022081"></video>
+* @mhelvens wins $100 for the cursor companion! It feels like something that can be dropped in any form and add some playful interaction. [Try it!](https://playcode.io/1748085) https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/4
 
-* @luisperezphd wins $35 for the bouncy ball experience! By having a single field on the viewport at the time and a sick transition with the ball, it makes it feel like an adventure! [Try it!](https://luisperezphd.github.io/meta-challenge-bouncy-ball/src/bouncy-ball.html), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/6).
-<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/dcc6f02e-616f-40c2-af01-a817db2d5a14"></video>
+https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/4012816/a8110ccf-9ec9-4d64-9cec-43aee4022081
 
-* @hurrymaplelad wins $15 for gunky form! It reminds me a lot of [World of Goo](https://2dboy.com/). It's a cool way to enhance the selected state of form fields. [Try it!](https://jsfiddle.net/19Lfuo0n/), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/1).
-<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/1083040/9d92f772-46fc-465e-b6b5-215ca88ed404"></video>
+* @luisperezphd wins $35 for the bouncy ball experience! By having a single field on the viewport at the time and a sick transition with the ball, it makes it feel like an adventure! [Try it!](https://luisperezphd.github.io/meta-challenge-bouncy-ball/src/bouncy-ball.html) https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/6
+
+https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/dcc6f02e-616f-40c2-af01-a817db2d5a14
+
+* @hurrymaplelad wins $15 for gunky form! It reminds me a lot of [World of Goo](https://2dboy.com/). It's a cool way to enhance the selected state of form fields. [Try it!](https://jsfiddle.net/19Lfuo0n/) https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/1
+
+https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/1083040/9d92f772-46fc-465e-b6b5-215ca88ed404
 
 
 ### Honorable Mentions:
 
-* @bulutcy submitted this really cool soccer inspired form field! [Try it!](https://bulutcy.github.io/bouncy-ball/), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/5).
-<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/836a5b19-c0f3-4aa3-baa5-bd7191a34fb6"></video>
+* @bulutcy submitted this really cool soccer inspired form field! [Try it!](https://bulutcy.github.io/bouncy-ball/) https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/5
 
-* @zachrip came up with this little friend following you as you type. [Try it!](https://t8zsmm-5173.csb.app/), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/3).
-<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/a92abb8e-bee8-40b3-9db8-3a9f8b08148e"></video>
+https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/836a5b19-c0f3-4aa3-baa5-bd7191a34fb6
 
-* Last but not least, @evgenyvinnik made this concept where you have to fill out the form to keep the ball in movement. If it stops, the form locks up! [Try it!](https://codesandbox.io/p/github/evgenyvinnik/bouncyBallForm), [Submission](https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/2).
+* @zachrip came up with this little friend following you as you type. [Try it!](https://t8zsmm-5173.csb.app/) https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/3
 
-<video src="https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/e1f27cdf-8bb2-47e8-9c0f-11250d7f4e41"></video>
+https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/a92abb8e-bee8-40b3-9db8-3a9f8b08148e
+
+* Last but not least, @evgenyvinnik made this concept where you have to fill out the form to keep the ball in movement. If it stops, the form locks up! [Try it!](https://codesandbox.io/p/github/evgenyvinnik/bouncyBallForm) https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/issues/2
+
+https://github.com/Algorithm-Arena/weekly-challenge-3-bouncy-form/assets/197597/e1f27cdf-8bb2-47e8-9c0f-11250d7f4e41
 
 ### Prizes:
 * Winner: $100
